@@ -10,4 +10,4 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sBKpwQR7JJQ
 " target="_blank"><img src="http://img.youtube.com/vi/sBKpwQR7JJQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>sBKpwQR7JJQ
+alt="Orphan Stream" width="240" height="180" border="10" /></a>
