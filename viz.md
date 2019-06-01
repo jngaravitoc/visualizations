@@ -1,8 +1,8 @@
 1. Satellite galaxies: 
 
-- [MW satellites various videos](http://marcelpawlowski.com/research/movies-astronomy/)
-- [Satellites discovery history](http://marcelpawlowski.com/wp-content/uploads3/MilkyWaySatellites2019.mp4)
+- [MW satellites various videos](http://marcelpawlowski.com/research/movies-astronomy/) **credit: Marcell Pawlowoski**
+- [Satellites discovery history](http://marcelpawlowski.com/wp-content/uploads3/MilkyWaySatellites2019.mp4) **credit: Marcell Pawlowoski**
                        
 2. Stellar Streams: 
-- [Stellar streams formation](http://adrian.pw/talkviz/movies/stream_xy.mp4)
-- [DES stellar streams](https://home.fnal.gov/~kadrlica/movies/residual_bkg_v17p2.gif)
+- [Stellar streams formation](http://adrian.pw/talkviz/movies/stream_xy.mp4) **credit: Adrian Price-Whelan**
+- [DES stellar streams](https://home.fnal.gov/~kadrlica/movies/residual_bkg_v17p2.gif) **credit: [Nora Shipp et al 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...862..114S/abstract) and DES survey**
