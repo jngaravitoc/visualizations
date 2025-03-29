@@ -1,2 +1,3 @@
-# MW_viz
-Visuals of the Milky Way Galaxy
+# Local Group visualizations 
+
+Scientific visualizations of my research.
